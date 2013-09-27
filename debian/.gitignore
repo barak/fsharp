@@ -1,0 +1,15 @@
+/*.debhelper
+/*.debhelper.log
+/*.substvars
+/autoreconf.after
+/autoreconf.before
+/files
+/fsharp-console/
+/fsharp/
+/libfsharp-build4.3-cil/
+/libfsharp-compiler-interactive-settings4.3-cil/
+/libfsharp-compiler-server-shared4.3-cil/
+/libfsharp-compiler4.3-cil/
+/libfsharp-core4.3-cil/
+/libfsharp-data-typeproviders4.3-cil/
+/tmp/
