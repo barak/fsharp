@@ -5,7 +5,7 @@ Maintainer: Christopher James Halse Rogers <raof@ubuntu.com>
 Build-Depends: debhelper (>= 9),
   dh-autoreconf,
   cli-common-dev,
-Standards-Version: 3.9.3
+Standards-Version: 3.9.4
 Homepage: http://fsharp.org
 #Vcs-Git: git://git.debian.org/collab-maint/fsharp.git
 #Vcs-Browser: http://git.debian.org/?p=collab-maint/fsharp.git;a=summary
