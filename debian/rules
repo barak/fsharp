@@ -27,4 +27,4 @@ override_dh_clideps:
 	dh_clideps --exclude-moduleref=mscoree.dll
 
 %:
-	dh $@ --with=cli,autoreconf
+	dh $@ --with=cli,autoreconf --parallel
