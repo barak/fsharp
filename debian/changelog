@@ -1,11 +1,11 @@
-fsharp (3.0.28-1) unstable; urgency=low
+fsharp (3.0.30-1) unstable; urgency=low
 
   * New upstream release, seems to build okay (closes: #713755)
   * Add necessary .dll symbolic links (closes: #706683, #705906)
   * Bump to dh9
   * Bump debian standards version (no changes required)
 
- -- Barak A. Pearlmutter <bap@debian.org>  Mon, 30 Sep 2013 13:31:49 +0100
+ -- Barak A. Pearlmutter <bap@debian.org>  Wed, 09 Oct 2013 13:21:28 +0100
 
 fsharp (3.0.26-1) unstable; urgency=low
 
